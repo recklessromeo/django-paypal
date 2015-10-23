@@ -9,6 +9,16 @@ detailed information about all changes.
 
 Below is a summary:
 
+Version 0.2.7
+-------------
+
+* Small fix to logging, thanks frankier
+
+Version 0.2.6
+-------------
+
+* Small fixes, including not depending on South.
+
 Version 0.2.5
 -------------
 
